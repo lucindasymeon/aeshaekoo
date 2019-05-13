@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://othaogooca.kai-gao.com/sitemap.xml
